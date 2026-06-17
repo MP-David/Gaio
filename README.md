@@ -1,6 +1,6 @@
 # Gaio — Rastreabilidade Bovina
 
-**PoC (Prova de Conceito)** de uma plataforma mobile-first para rastreabilidade de gado bovino no agronegócio brasileiro. O sistema conecta produtores rurais, o registro nacional **LeiGado** e consumidores finais em uma cadeia de transparência completa — do nascimento do animal à prateleira.
+**PoC** de uma plataforma mobile-first para rastreabilidade de gado bovino no agronegócio brasileiro. O sistema conecta produtores rurais, o registro nacional **LeiGado** e consumidores finais em uma cadeia de transparência completa — do nascimento do animal à prateleira.
 
 ---
 
